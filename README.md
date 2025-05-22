@@ -10,7 +10,7 @@
 <body>
   <header>
     <h1>Hamid Id Azzi</h1>
-    <img src="profile.jpg" alt="Hamid Id Azzi" style="width:150px;height:150px;border-radius:50%;margin-top:1rem;">
+    
     <p>Data-Driven Professional | Analytics | Technical Operations | Finance</p>
   </header>
 
