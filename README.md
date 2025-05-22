@@ -4,17 +4,19 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
+ 
   
 </head>
 <body>
   <header>
     <h1>Hamid Id Azzi</h1>
+    <img src="profile.jpg" alt="Hamid Id Azzi" style="width:150px;height:150px;border-radius:50%;margin-top:1rem;">
     <p>Data-Driven Professional | Analytics | Technical Operations | Finance</p>
   </header>
 
   <div class="summary">
     <h2>Summary</h2>
-    <p>Data-driven professional with a Master’s in Data Analytics, Bachelor's in Economics, and over 10 years' experience in technical operations, business management, and financial analysis. Proven ability to troubleshoot complex systems, analyze data, manage teams, and support customers in fast-paced environments.</p>
+    <p>I come from a science economics background with a passion for electronics. My journey began in IT support and mobile device repair, where I developed hands-on technical skills. Over time, I expanded my expertise into data analytics and programming, merging business insight with modern analytical tools to solve real-world problems.</p>
   </div>
 
   <div class="section">
@@ -52,31 +54,34 @@
     <ul>
       <li>LinkedIn: Become a Data Analyst (2023)</li>
       <li>Google IT Support Certificate (2020)</li>
-      <li>CompTIA A+/Network+/Security+ (Training Completed 2014)</li>
+      <li>CompTIA A+/Network+/Security+ (Training Completed)</li>
     </ul>
   </div>
 
   <div class="section">
     <h2>Projects</h2>
     <ul>
+      <li><strong>Tableau Dashboard – Sales Performance Analysis</strong> – Interactive dashboard built with Tableau Public to analyze sales patterns, performance trends, and KPIs. View it live:
+        <a href="https://public.tableau.com/app/profile/hamid.id.azzi/viz/8823Final/Dashboard3" target="_blank">Tableau Dashboard</a>
+      </li>
       <li><strong>Cellutionz Sales Forecasting</strong> – Developed a time series forecasting model using Python to predict online sales. Tools: Pandas, ARIMA, Prophet, Matplotlib. Achieved 90% MAE accuracy for business inventory planning.</li>
       <li><strong>Customer Retention Dashboard</strong> – Created a Power BI dashboard to visualize churn and retention trends using historical customer service and purchase data.</li>
-      <li><strong>FDA Clinical Trial Database Simulation</strong> – This project simulates the backend database design for an FDA-regulated clinical trial system conducted by Acme Pharmaceuticals. The study is structured to manage two simultaneous double-blind experimental drug trials and is built using SQL Server.
-<br><br>
-This system is designed to:
-<ul>
-  <li>Track patients enrolled in experimental drug studies</li>
-  <li>Assign randomized treatment (Active or Placebo) based on study rules</li>
-  <li>Record visits including screening, randomization, and withdrawal</li>
-  <li>Maintain drug kit inventories and assignment</li>
-  <li>Provide procedural tools for managing randomized codes and withdrawals</li>
-</ul></li>
+      <li><strong>FDA Clinical Trial Database Simulation</strong> – This project simulates the backend database design for an FDA-regulated clinical trial system conducted by Acme Pharmaceuticals. The study is structured to manage two simultaneous double-blind experimental drug trials and is built using SQL Server.<br><br>
+        This system is designed to:
+        <ul>
+          <li>Track patients enrolled in experimental drug studies</li>
+          <li>Assign randomized treatment (Active or Placebo) based on study rules</li>
+          <li>Record visits including screening, randomization, and withdrawal</li>
+          <li>Maintain drug kit inventories and assignment</li>
+          <li>Provide procedural tools for managing randomized codes and withdrawals</li>
+        </ul>
+      </li>
     </ul>
   </div>
 
   <div class="contact">
     <h2>Connect with Me</h2>
-    <a href="https://github.com/idazzihamid" target="_blank">GitHub</a>
+    <a href="https://github.com/your-username" target="_blank">GitHub</a>
     <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">LinkedIn</a>
     <a href="mailto:idazzihamid@gmail.com">Email Me</a>
   </div>
