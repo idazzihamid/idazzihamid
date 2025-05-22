@@ -59,7 +59,7 @@ Developed a time series forecasting model using Python to predict online sales.
 **Impact**: Achieved 90% MAE accuracy for business inventory planning.
 
 ### 🔹 Customer Retention Dashboard  
-Created a Power BI dashboard to visualize churn and retention trends using historical customer service and purchase data.
+Created a dashboard to visualize churn and retention trends using historical customer service and purchase data.
 ### [🔗 Tableau Dashboard – Display Churn, No-Churn Percentages, and Average Monthly Charges](https://public.tableau.com/app/profile/hamid.id.azzi/viz/8823Final/Dashboard3)  
 Interactive dashboard built with Tableau Public to analyze sales patterns, performance trends, and KPIs.
 ### 🔹 FDA Clinical Trial Database Simulation  
