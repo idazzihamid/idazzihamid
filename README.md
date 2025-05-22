@@ -61,7 +61,16 @@
     <ul>
       <li><strong>Cellutionz Sales Forecasting</strong> – Developed a time series forecasting model using Python to predict online sales. Tools: Pandas, ARIMA, Prophet, Matplotlib. Achieved 90% MAE accuracy for business inventory planning.</li>
       <li><strong>Customer Retention Dashboard</strong> – Created a Power BI dashboard to visualize churn and retention trends using historical customer service and purchase data.</li>
-      <li><strong>SQL Data Cleaning Pipeline</strong> – Designed an automated SQL workflow to clean and transform transaction data for reporting purposes.</li>
+      <li><strong>FDA Clinical Trial Database Simulation</strong> – This project simulates the backend database design for an FDA-regulated clinical trial system conducted by Acme Pharmaceuticals. The study is structured to manage two simultaneous double-blind experimental drug trials and is built using SQL Server.
+<br><br>
+This system is designed to:
+<ul>
+  <li>Track patients enrolled in experimental drug studies</li>
+  <li>Assign randomized treatment (Active or Placebo) based on study rules</li>
+  <li>Record visits including screening, randomization, and withdrawal</li>
+  <li>Maintain drug kit inventories and assignment</li>
+  <li>Provide procedural tools for managing randomized codes and withdrawals</li>
+</ul></li>
     </ul>
   </div>
 
