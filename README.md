@@ -11,7 +11,7 @@
   <header>
     <h1>Hamid Id Azzi</h1>
     
-    <p>Data-Driven Professional | Analytics | Technical Operations | Finance</p>
+    <h1>Data-Driven Professional | Analytics | Technical Operations | Finance</h1>
   </header>
 
   <div class="summary">
