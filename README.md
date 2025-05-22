@@ -76,7 +76,7 @@ Simulated a backend database for an FDA-regulated clinical trial system for Acme
 
 ## 📬 Connect with Me
 
-- 🔗 [GitHub](https://github.com/your-username)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin/)  
+- 🔗 [GitHub](https://github.com/idazzihamid)  
+- 🔗 [LinkedIn](https:/www.linkedin.com/in/hamid-idazzi-273221278)  
 - 📧 [Email Me](mailto:idazzihamid@gmail.com)
 
