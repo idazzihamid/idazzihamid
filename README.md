@@ -67,7 +67,7 @@
 
   <div class="contact">
     <h2>Connect with Me</h2>
-    <a href="https://github.com/your-username" target="_blank">GitHub</a>
+    <a href="https://github.com/your-idazzihamid" target="_blank">GitHub</a>
     <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">LinkedIn</a>
     <a href="mailto:idazzihamid@gmail.com">Email Me</a>
   </div>
