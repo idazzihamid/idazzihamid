@@ -52,7 +52,7 @@
     <ul>
       <li>LinkedIn: Become a Data Analyst (2023)</li>
       <li>Google IT Support Certificate (2020)</li>
-      <li>CompTIA A+/Network+/Security+ (Training Completed)</li>
+      <li>CompTIA A+/Network+/Security+ (Training Completed 2014)</li>
     </ul>
   </div>
 
