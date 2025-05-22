@@ -54,7 +54,7 @@ Directed loan operations, managed client portfolios, led compliance, and improve
 
 ## 🚀 Projects
 
-### [🔗 Tableau Dashboard – Sales Performance Analysis](https://public.tableau.com/app/profile/hamid.id.azzi/viz/8823Final/Dashboard3)  
+### [🔗 Tableau Dashboard – Display Churn, No-Churn Percentages, and Average Monthly Charges](https://public.tableau.com/app/profile/hamid.id.azzi/viz/8823Final/Dashboard3)  
 Interactive dashboard built with Tableau Public to analyze sales patterns, performance trends, and KPIs.
 
 ### 🔹 Cellutionz Sales Forecasting  
