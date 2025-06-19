@@ -1,82 +1,91 @@
-# Hamid Id Azzi
+Hamid Id Azzi
+Data-Driven Professional | Analytics | Technical Operations | Finance
 
-**Data-Driven Professional | Analytics | Technical Operations | Finance**
-
----
-
-## 📊 Summary
-
+📊 Summary
 I come from a science economics background with a passion for electronics. My journey began in IT support and mobile device repair, where I developed hands-on technical skills. Over time, I expanded my expertise into data analytics and programming, merging business insight with modern analytical tools to solve real-world problems.
 
----
+🧰 Key Skills
+Technical troubleshooting & repair (PCs, laptops, mobile devices, and electronics)
 
-## 🧰 Key Skills
+Business operations & inventory management
 
-- Technical troubleshooting & repair (PCs, laptops, mobile devices, and electronics)  
-- Business operations & inventory management  
-- Financial analysis & customer service  
-- Data analysis & administrative systems  
-- Python, SQL, Machine Learning, Statistical Modeling  
-- Data Visualization (Tableau, Power BI, Matplotlib, Seaborn)  
-- Big Data Tools (Hadoop, Spark)
+Financial analysis & customer service
 
----
+Data analysis & administrative systems
 
-## 💼 Professional Experience
+Python, SQL, Machine Learning, Statistical Modeling
 
-### 📍 Technical Operations Manager  
-**Cellutionz, Cincinnati, OH**  
-*Sep 2014 – Present*  
+Data Visualization (Tableau, Power BI, Matplotlib, Seaborn)
+
+Big Data Tools (Hadoop, Spark)
+
+💼 Professional Experience
+📍 Technical Operations Manager
+Cellutionz, Cincinnati, OH
+Sep 2014 – Present
 Managed technical repair, customer support, inventory, training, and finances for an electronics repair shop.
 
-### 📍 Director  
-**Wafa Salaf, Guelmim, Morocco**  
-*Oct 2009 – Mar 2013*  
+📍 Director
+Wafa Salaf, Guelmim, Morocco
+Oct 2009 – Mar 2013
 Directed loan operations, managed client portfolios, led compliance, and improved processing efficiency.
 
----
+🎓 Education
+M.S. Data Analytics – Western Governors University, UT (2023)
 
-## 🎓 Education
+B.S. Economics – Cadi Ayad University, Morocco (2006)
 
-- **M.S. Data Analytics** – Western Governors University, UT (2023)  
-- **B.S. Economics** – Cadi Ayad University, Morocco (2006)  
-- **High School Diploma (Science)** – Baba Sahra High School, Morocco
+High School Diploma (Science) – Baba Sahra High School, Morocco
 
----
+📜 Certifications
+LinkedIn: Become a Data Analyst (2023)
 
-## 📜 Certifications
+Google IT Support Certificate (2020)
 
-- LinkedIn: Become a Data Analyst (2023)  
-- Google IT Support Certificate (2020)  
-- CompTIA A+, Network+, Security+ (Training Completed)
+CompTIA A+, Network+, Security+ (Training Completed)
 
----
+🚀 Projects
+🔹 Cellutionz Sales Forecasting
+Developed a time series forecasting model using Python to predict online sales.
+Tools: Pandas, ARIMA, Prophet, Matplotlib
+Impact: Achieved 90% MAE accuracy for business inventory planning.
 
-## 🚀 Projects
-### 🔹 Cellutionz Sales Forecasting  
-Developed a time series forecasting model using Python to predict online sales.  
-**Tools**: Pandas, ARIMA, Prophet, Matplotlib  
-**Impact**: Achieved 90% MAE accuracy for business inventory planning.
-
-### 🔹 Customer Retention Dashboard  
+🔹 Customer Retention Dashboard
 Created a dashboard to visualize churn and retention trends using historical customer service and purchase data.
-### [🔗Tableau Dashboar](https://public.tableau.com/app/profile/hamid.id.azzi/viz/8823Final/Dashboard3)  
+
+🔹 🔗 Tableau Dashboard
 Interactive dashboard built with Tableau Public to analyze sales patterns, performance trends, and KPIs.
-### 🔹 FDA Clinical Trial Database Simulation  
-Simulated a backend database for an FDA-regulated clinical trial system for Acme Pharmaceuticals.  
-**Technologies**: SQL Server  
-**Designed to:**
-- Track patients in drug studies  
-- Assign randomized treatments (Active or Placebo)  
-- Record visits: screening, randomization, withdrawal  
-- Maintain drug kit inventories  
-- Provide tools for managing randomized codes and withdrawals
 
----
+🔹 FDA Clinical Trial Database Simulation
+Simulated a backend database for an FDA-regulated clinical trial system for Acme Pharmaceuticals.
+Technologies: SQL Server
+Designed to:
 
-## 📬 Connect with Me
+Track patients in drug studies
 
-- 🔗 [GitHub](https://github.com/idazzihamid)  
-- 🔗 [LinkedIn](https:/www.linkedin.com/in/hamid-idazzi-273221278)  
-- 📧 [Email Me](mailto:idazzihamid@gmail.com)
+Assign randomized treatments (Active or Placebo)
 
+Record visits: screening, randomization, withdrawal
+
+Maintain drug kit inventories
+
+Provide tools for managing randomized codes and withdrawals
+
+🔹 Price Optimization with GAM
+Analyzed historical pricing and revenue data for LCD screen products using Expectile Generalized Additive Models (GAM).
+Tools: Python, PyGAM, Plotnine, Pandas, Matplotlib
+Objective: Identify optimal pricing points for different iPhone models to maximize revenue.
+Outcome:
+
+Estimated median optimal prices with 95% prediction bounds.
+
+Visualized price-revenue relationships across multiple products.
+
+Informed strategic pricing decisions using predictive analytics.
+
+📬 Connect with Me
+🔗 GitHub https://github.com/idazzihamid
+
+🔗 LinkedIn https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
+
+📧 Email Me: idazzihamid@gmail.com
