@@ -86,6 +86,6 @@ Informed strategic pricing decisions using predictive analytics.
 📬 Connect with Me
 🔗 GitHub https://github.com/idazzihamid
 
-🔗 LinkedIn https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
+🔗 LinkedIn https://www.linkedin.com/in/hamid-i-273221278/
 
 📧 Email Me: idazzihamid@gmail.com
